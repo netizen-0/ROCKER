@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/EAGLEUPDATES0/ROCKER?style=social)](https://github.com/EAGLEUPDATES0/ROCKER/stargazers)
-[![Forks](https://img.shields.io/github/forks/EAGLEUPDATES0/ROCKER?style=social)](https://github.com/EAGLEUPDATES0/ROCKER/network/members)
+[![Stars](https://img.shields.io/github/stars/netizen-0/ROCKER?style=social)](https://github.com/netizen-0/ROCKER/stargazers)
+[![Forks](https://img.shields.io/github/forks/netizen-0/ROCKER?style=social)](https://github.com/netizen-0/ROCKER/network/members)
 
 ---
 
@@ -26,7 +26,7 @@ It’s designed to be lightweight, fast, and customizable.
 ## ❤️ Support
 
 💬 **Telegram:**  
-📂 **GitHub Issues:** [Report a Problem](https://github.com/EAGLEUPDATES0/ROCKER/issues/new)
+📂 **GitHub Issues:** [Report a Problem](https://github.com/netizen-0/ROCKER/issues/new)
 
 ---
 
@@ -41,7 +41,7 @@ It’s designed to be lightweight, fast, and customizable.
 ### 🔹 1. Deploy on **Heroku** (One Click)
 Click this button to deploy instantly on **Heroku**:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EAGLEUPDATES0/ROCKER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/netizen-0/ROCKER)
 
 Or deploy manually:
 ```bash
@@ -54,7 +54,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git ffmpeg screen -y
 
 # 3. Clone the repository
-git clone https://github.com/EAGLEUPDATES0/ROCKER.git
+git clone https://github.com/netizen-0/ROCKER.git
 cd AloneMusic
 
 # 4. Install build backend (in case it's missing)
